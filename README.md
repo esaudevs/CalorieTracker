@@ -1,2 +1,2 @@
 # CalorieTracker
-Aplicacion multimodular con Jetpack Compose 
+Aplicacion Android multimodular con Jetpack Compose 
