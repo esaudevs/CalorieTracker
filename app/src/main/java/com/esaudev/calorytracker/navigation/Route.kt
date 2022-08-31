@@ -1,4 +1,4 @@
-package com.esaudev.core.navigation
+package com.esaudev.calorytracker.navigation
 
 object Route {
     const val WELCOME = "welcome"
